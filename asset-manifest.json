@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.31812d49.css",
-    "main.js": "/react/static/js/main.ad057780.js",
-    "index.html": "/react/index.html",
-    "main.31812d49.css.map": "/react/static/css/main.31812d49.css.map",
-    "main.ad057780.js.map": "/react/static/js/main.ad057780.js.map"
+    "main.css": "/chkim0/react-pofor.git/static/css/main.0c50bf67.css",
+    "main.js": "/chkim0/react-pofor.git/static/js/main.a364d3c1.js",
+    "index.html": "/chkim0/react-pofor.git/index.html",
+    "main.0c50bf67.css.map": "/chkim0/react-pofor.git/static/css/main.0c50bf67.css.map",
+    "main.a364d3c1.js.map": "/chkim0/react-pofor.git/static/js/main.a364d3c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.31812d49.css",
-    "static/js/main.ad057780.js"
+    "static/css/main.0c50bf67.css",
+    "static/js/main.a364d3c1.js"
   ]
 }
