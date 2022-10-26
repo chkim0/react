@@ -1,8 +1,8 @@
-import React from "react"
+
 export default function Visual() {
     return (
-        <figure id="visual">
-
+        <figure id="visual" className='myScroll'>
+            <video src={process.env.PUBLIC_URL + '/img/vid2.mp4'} loop autoPlay muted></video>
         </figure>
     )
 }
