@@ -1,22 +1,28 @@
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100&display=swap");
+$web_note: 1569px;
 $tablet: 1179px;
 $mobile: 539px;
 
-//common
-@import 'common/reset';
-@import 'common/footer';
-@import 'common/layout';
-@import 'common/header';
-@import 'common/Popup';
+//반응형을 최대한 세세하게 디바이스에 맞춰서 5개이상
 
+//common
+@import "common/reset";
+@import "common/footer";
+@import "common/layout";
+@import "common/header";
+@import "common/popup";
+@import "common/menu";
 //main
-@import 'main/content';
-@import 'main/visual';
+@import "main/news";
+@import "main/visual";
+@import "main/vids";
+@import "main/pics";
+@import "main/btns.scss";
 
 //sub
-@import 'sub/community';
-@import 'sub/department';
-@import 'sub/gallerty';
-@import 'sub/location';
-@import 'sub/member';
-@import 'sub/youtube';
+@import "sub/community";
+@import "sub/department";
+@import "sub/gallery";
+@import "sub/location";
+@import "sub/member";
+@import "sub/youtube";
